@@ -5,7 +5,7 @@ if(foo  === "bar") {
 }
 
 
-var foobar = '' ;
+var foobar = "" ;
 
 if(foobar      === "bar") {
   console.log( 'hey' )
