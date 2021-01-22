@@ -7,6 +7,6 @@ if(foo  === "bar") {
 
 var baaaar = "";
 
-if(baaaar                        === "bar") {
+if(baaaar === "bar") {
   console.log( 'heeeeey' )
 }
