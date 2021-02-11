@@ -1,3 +1,15 @@
+
+
+
+var potato = "";
+
+if (potato === "potato") {
+  console.log("hey you");
+}
+
+
+
+
 var foo = '' ;
 
 if(foo  === "bar") {
