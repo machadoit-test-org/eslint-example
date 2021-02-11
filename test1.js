@@ -1,5 +1,5 @@
 var foo = '' ;
 
-if(foo  === "bar") {
+if(foo  === 'bar') {
   console.log( 'hey' )
 }
